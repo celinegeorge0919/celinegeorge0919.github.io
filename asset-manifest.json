@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af96abe5.css",
+    "main.js": "/static/js/main.09fc6988.js",
+    "static/media/logo.png": "/static/media/logo.cd7689eaff414955eed5.png",
+    "static/media/azure.png": "/static/media/azure.dd49b3c54249c87368c6.png",
+    "static/media/magento.png": "/static/media/magento.2c42f47df5aec7b86979.png",
+    "index.html": "/index.html",
+    "main.af96abe5.css.map": "/static/css/main.af96abe5.css.map",
+    "main.09fc6988.js.map": "/static/js/main.09fc6988.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af96abe5.css",
+    "static/js/main.09fc6988.js"
+  ]
+}
